@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @aAlexanderM
 - 👀 I’m interested in embedded programming, and building lightweight and efficient software with lower-level languages such as C.
 - 🌱 I’m currently learning Bash, C, C++, Python, Verilog.
-- 📫 You can reach me via Github.
+- 📫 You can reach me via Github.  
 
-- 
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: ...
